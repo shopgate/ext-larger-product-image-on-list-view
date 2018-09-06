@@ -7,25 +7,25 @@ import ListItem from '../../components/ListItem';
 const GRID_VIEW = 'grid';
 const LIST_VIEW = 'list';
 /**
- * The CategoryItemPrice component.
+ * The CategoryItem component.
  * @param {Object} props The component props.
  * @return {JSX}
  */
-const ProductCategoryImage = ({ productData, viewMode }) => {
+const CategoryItem = ({ productData, viewMode }) => {
   if (viewMode === LIST_VIEW) {
     return <ListItem product={productData} />;
   }
   return <GridItem product={productData} />;
 };
 
-ProductCategoryImage.propTypes = {
+CategoryItem.propTypes = {
   productData: PropTypes.shape(),
   viewMode: PropTypes.string,
 };
 
-ProductCategoryImage.defaultProps = {
+CategoryItem.defaultProps = {
   productData: {},
   viewMode: GRID_VIEW,
 };
 
-export default connect(ProductCategoryImage);
+export default connect(CategoryItem);
