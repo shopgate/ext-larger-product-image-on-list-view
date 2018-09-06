@@ -1,7 +1,7 @@
 {
   "name": "@shopgate-project/city-gear-30059-larger-list-images",
   "version": "1.0.0",
-  "description": "An awesome extesion for my awesome organization",
+  "description": "This extension increases the sizes of product images on category pages when in live view mode",
   "license": "Apache-2.0",
   "scripts": {
     "test": "jest",
@@ -26,6 +26,7 @@
     "babel-plugin-transform-react-jsx": "^6.24.1",
     "babel-preset-env": "^1.6.1",
     "babel-preset-react": "^6.24.1",
+    "eslint": "^5.5.0",
     "eslint-plugin-eslint-comments": "^3.0.1",
     "jest": "^23.5.0",
     "prop-types": "^15.6.0",
@@ -36,7 +37,5 @@
     "redbox-react": "^1.5.0",
     "redux-mock-store": "^1.5.3"
   },
-  "dependencies": {
-    "eslint": "^5.5.0"
-  }
+  "dependencies": {}
 }
