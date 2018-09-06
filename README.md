@@ -1,2 +1,17 @@
-# ext-larger-product-image-on-list-view
-This extension creates larger product images when a category is set to list view
+# Shopgate Connect - Extension Larger Product Images on List View
+
+## About Shopgate
+
+Shopgate is the leading mobile commerce platform.
+
+Shopgate offers everything online retailers need to be successful in mobile. Our leading
+software-as-a-service (SaaS) enables online stores to easily create, maintain and optimize native
+apps and mobile websites for the iPhone, iPad, Android smartphones and tablets.
+
+
+## License
+
+Shopgate Connect - Extension Larger Product Images on List View is available under the Apache License, Version 2.0.
+
+See the [LICENSE](./LICENSE) file for more information.
+
