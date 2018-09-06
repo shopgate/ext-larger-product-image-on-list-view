@@ -1,0 +1,14 @@
+{
+  "version": "0.1.0",
+  "id": "@shopgate/ext-larger-product-image-on-list-view",
+  "components": [
+    {
+      "id": "CategoryItem",
+      "type": "portals",
+      "path": "frontend/portals/CategoryItem/index.jsx",
+      "target": "product.item"
+    }
+  ],
+  "configuration": {
+  }
+}
