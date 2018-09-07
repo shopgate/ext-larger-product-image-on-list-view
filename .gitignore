@@ -60,3 +60,5 @@ typings/
 # Text Editor files
 .idea/
 
+#lock files
+yarn.lock
