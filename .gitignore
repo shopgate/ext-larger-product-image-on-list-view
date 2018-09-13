@@ -62,3 +62,7 @@ typings/
 
 #lock files
 yarn.lock
+
+# Dynamic Config files
+config.json
+
