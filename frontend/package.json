@@ -1,6 +1,6 @@
 {
-  "name": "@shopgate-project/city-gear-30059-larger-list-images",
-  "version": "1.0.0",
+  "name": "@shopgate/larger-product-image-on-list-view",
+  "version": "0.1.0",
   "description": "This extension increases the sizes of product images on category pages when in live view mode",
   "license": "Apache-2.0",
   "scripts": {

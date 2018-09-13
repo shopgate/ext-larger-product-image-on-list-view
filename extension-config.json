@@ -1,6 +1,6 @@
 {
   "version": "0.1.0",
-  "id": "@shopgate/ext-larger-product-image-on-list-view",
+  "id": "@shopgate/larger-product-image-on-list-view",
   "components": [
     {
       "id": "CategoryItem",
